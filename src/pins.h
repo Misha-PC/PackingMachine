@@ -25,7 +25,12 @@
 #define PIN_BTN_AUTO  3
 #define PIN_ENDSTOP   7
 
-#define PIN_DIR_M0    52
-#define PIN_STEP_M0   50
+#define PIN_DIR_M1    52
+#define PIN_STEP_M1   50
+
+#define PIN_DIR_M0    34
+#define PIN_STEP_M0   32
+
+#define PIN_LED       13
 
 #endif
